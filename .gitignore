@@ -34,3 +34,7 @@ yarn-error.log*
 
 # especificações do projeto
 /especificacoes/
+
+# Configurações aws
+cloudfront-config.json
+bucket-policy.json
