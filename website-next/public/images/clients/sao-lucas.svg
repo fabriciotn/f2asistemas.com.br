@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 20L60 40L40 60L20 40L40 20Z" fill="#F97316"/>
+  <path d="M45 35H55V45H45V35Z" fill="white"/>
+  <text x="70" y="45" font-family="Arial" font-size="24" font-weight="bold" fill="#1F2937">São Lucas</text>
+</svg> 

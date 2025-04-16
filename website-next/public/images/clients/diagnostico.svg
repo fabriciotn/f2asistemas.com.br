@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 40C30 40 40 30 50 40C60 50 50 60 30 60C10 60 0 50 10 40C20 30 30 40 30 40Z" fill="#F97316"/>
+  <circle cx="40" cy="40" r="5" fill="white"/>
+  <text x="60" y="45" font-family="Arial" font-size="24" font-weight="bold" fill="#1F2937">Diagnóstico</text>
+</svg> 

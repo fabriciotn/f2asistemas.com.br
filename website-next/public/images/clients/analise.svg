@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 20H50V40C50 40 45 45 40 45C35 45 30 40 30 40V20Z" fill="#F97316"/>
+  <path d="M35 25H45V35C45 35 42 38 40 38C38 38 35 35 35 35V25Z" fill="white"/>
+  <text x="60" y="45" font-family="Arial" font-size="24" font-weight="bold" fill="#1F2937">Análise</text>
+</svg> 
